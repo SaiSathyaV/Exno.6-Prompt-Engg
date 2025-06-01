@@ -1,6 +1,6 @@
 # Exno.6-Prompt-Engg
-## Name : Dhanalakshmi S
-## Register no: 212222040033
+## Name : Sai Sathya V
+## Register no: 212222220037
 ## Aim: 
 Development of Python Code Compatible with Multiple AI Tools
 
